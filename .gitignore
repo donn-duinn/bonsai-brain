@@ -6,6 +6,7 @@
 *.dylib
 *.test
 *.out
+bonsai-brain
 
 # Build artifacts
 /bonsai

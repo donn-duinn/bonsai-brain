@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Danielhogben/bonsai-brain/releases"><img src="https://img.shields.io/github/v/release/Danielhogben/bonsai-brain?style=flat-square" alt="Release"></a>
+  <a href="https://github.com/donn-duinn/bonsai-brain/releases"><img src="https://img.shields.io/github/v/release/donn-duinn/bonsai-brain?style=flat-square" alt="Release"></a>
   <a href="https://pkg.go.dev/github.com/donn/bonsai-brain"><img src="https://img.shields.io/badge/reference-pkg.go.dev-blue?style=flat-square" alt="Go Reference"></a>
-  <a href="https://github.com/Danielhogben/bonsai-brain/actions"><img src="https://img.shields.io/github/actions/workflow/status/Danielhogben/bonsai-brain/ci.yml?style=flat-square" alt="CI"></a>
+  <a href="https://github.com/donn-duinn/bonsai-brain/actions"><img src="https://img.shields.io/github/actions/workflow/status/donn-duinn/bonsai-brain/ci.yml?style=flat-square" alt="CI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License"></a>
 </p>
 
@@ -111,7 +111,7 @@ go get github.com/donn/bonsai-brain@latest
 Or clone and build locally:
 
 ```bash
-git clone https://github.com/Danielhogben/bonsai-brain.git
+git clone https://github.com/donn-duinn/bonsai-brain.git
 cd bonsai-brain
 go build ./...
 go test ./...
